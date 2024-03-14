@@ -1,0 +1,6 @@
+#Isso é um comentário nesse arquivo
+#O asterisco é utilizado como um caractere coringa.
+#A barra invertida \ é usada para ignorar nomes de caminhos relativos ao arquivo .gitignore
+
+#Estou ignorando a pasta de configuração do VsCode
+.vscode/
