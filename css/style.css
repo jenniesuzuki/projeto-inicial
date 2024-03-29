@@ -27,3 +27,12 @@ form {
 p {
     color: green;
 }
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    border: solid 2px red;
+}
