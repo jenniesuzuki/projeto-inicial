@@ -5,3 +5,12 @@ header {
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
 }
+
+nav {
+    font-weight: bold;
+}
+
+#container {
+    margin: 20px;
+
+}
